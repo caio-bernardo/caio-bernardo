@@ -1,2 +1,2 @@
 # Hello World
- Meu primeiro repositório criado curante um curso de Git e GitHub
+ Meu primeiro repositório criado durante um curso de Git e GitHub.
