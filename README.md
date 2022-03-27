@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caio-bernardo&label=Profile%20views&color=b32399&style=flat-square" alt="caio-bernardo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-bernardo&theme=onedark" alt="caio-bernardo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-bernardo&theme=dracula" alt="caio-bernardo" /></a> </p>
 
 - 🔭 I’m currently working on [Password Vault](https://github.com/caio-bernardo/PasswordVault)
 
