@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Password Vault](https://github.com/caio-bernardo/PasswordVault)
 
-- 🌱 I’m currently learning **Design Patterns, Docker & MongoDB**
+- 🌱 I’m currently learning **Rust and Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/caio-bernardo?tab=repositories](https://github.com/caio-bernardo?tab=repositories)
 
