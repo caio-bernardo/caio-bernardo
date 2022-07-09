@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-bernardo&theme=dracula" alt="caio-bernardo" /></a> </p>
 
-- 🔭 I’m currently working on [Password Vault](https://github.com/caio-bernardo/PasswordVault)
+- 🔭 I’m currently working on [CipherApp](https://github.com/caio-bernardo/CipherApp)
 
-- 🌱 I’m currently learning **Rust and Svelte**
+- 🌱 I’m currently learning **Rust** and **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/caio-bernardo?tab=repositories](https://github.com/caio-bernardo?tab=repositories)
 
