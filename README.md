@@ -2,8 +2,9 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Caio. I'm a student in Systems Information, researcher at testing and measuring LLMs. Project Manager at _Semana de Sistemas de Informação_. Also, interested in system programming, graphics programming and game development.
-</div>
+
+Hi! My name is Caio. I'm a student in Systems Information, researcher at testing and measuring LLMs. Project Manager at *Semana de Sistemas de Informação*. Also, interested in system programming, graphics programming and game development.
+
 
 <h2> About Me </h2>
 
