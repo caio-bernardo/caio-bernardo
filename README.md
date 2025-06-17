@@ -11,7 +11,7 @@ Hi! My name is Caio. I'm a student in Systems Information, researcher at testing
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on [Saphira](github.com/SSI-Site/saphira), an API to assist on _Semana de Sistemas de Informação_ 😃
+- 🔭 I’m currently working on [Saphira](http://github.com/SSI-Site/saphira), an API to assist on _Semana de Sistemas de Informação_ 😃
 - 🌱 I’m currently learning about **game development** while developing a tutorial to combine Rust 🦀 and Godot Game Engine 🎮
 - 👯 I’m looking to collaborate on ✨ fun and meaningful ✨ projects
 - 💬 Talk to me about System Programming, Games, LLMs and API development!
